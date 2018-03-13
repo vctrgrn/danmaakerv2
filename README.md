@@ -10,4 +10,4 @@ Utilisation de GIT pour initialiser le projet.
 Avoir le logiciel Laragon est un pré requis. Sinon, utiliser un autre service tel que Vagrant - Wamp ou autre. 
 Refonte du site sous le Framework Laravel (verison 5.0) 
 
-Ce site, ainsi que les sources et tout contenu relatif à celui est la propriété de Danmaker ( Copyright ® 2018 Dan Maker. All Rights Reserved.) 
+Ce site, ainsi que les sources et tout contenu relatif à celui ci est la propriété de Danmaker ( Copyright ® 2018 Dan Maker. All Rights Reserved.) 
